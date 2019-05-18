@@ -99,5 +99,4 @@ PRODUCT_PACKAGES += \
     SkylineTheme \
     SublimeTheme \
     TimberTheme \
-    WitchingHourTheme \
     YodaTheme
